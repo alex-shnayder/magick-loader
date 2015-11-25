@@ -1,0 +1,30 @@
+{
+  "name": "magick-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader for processing images with GraphicsMagick",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-shnayder/magick-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "graphicsmagick",
+    "imagemagick",
+    "image",
+    "graphics",
+    "magick",
+    "gm",
+    "resize"
+  ],
+  "author": "Alex Shnayder <alex@shnayder.pro>",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.21.1"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-shnayder/magick-loader/issues"
+  },
+  "homepage": "https://github.com/alex-shnayder/magick-loader#readme"
+}
